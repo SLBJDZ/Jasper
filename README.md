@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SLBJDZ
+- 👋 Hi, I’m @Jasper
 - 👀 I’m interested in math
 - 🌱 I’m currently learning Numerical solution of differential equations
 - 💞️ I’m looking to collaborate on myself
